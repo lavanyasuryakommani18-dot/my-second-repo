@@ -1,2 +1,6 @@
 # my-second-repo
 student protal demo
+basic student portfolio
+attandance tracking system
+weekly test results
+semester results
